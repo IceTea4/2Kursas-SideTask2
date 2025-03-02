@@ -1,0 +1,392 @@
+{
+    "START": {
+        "Artificial": 0.11538461538461539,
+        "LLMs": 0.46153846153846156,
+        "AI": 0.38461538461538464,
+        "these": 0.038461538461538464
+    },
+    "Artificial": {
+        "intelligence": 1.0
+    },
+    "intelligence": {
+        "is": 0.3333333333333333,
+        "can": 0.6666666666666666
+    },
+    "is": {
+        "transforming": 0.5,
+        "used": 0.5
+    },
+    "transforming": {
+        "many": 1.0
+    },
+    "many": {
+        "industries": 1.0
+    },
+    "industries": {
+        "END": 1.0
+    },
+    "LLMs": {
+        "can": 0.75,
+        "are": 0.25
+    },
+    "can": {
+        "generate": 0.1111111111111111,
+        "improve": 0.1111111111111111,
+        "translate": 0.05555555555555555,
+        "analyze": 0.05555555555555555,
+        "recognize": 0.05555555555555555,
+        "summarize": 0.05555555555555555,
+        "enhance": 0.1111111111111111,
+        "detect": 0.05555555555555555,
+        "assist": 0.1111111111111111,
+        "predict": 0.05555555555555555,
+        "help": 0.05555555555555555,
+        "be": 0.05555555555555555,
+        "optimize": 0.05555555555555555,
+        "provide": 0.05555555555555555
+    },
+    "generate": {
+        "humanlike": 0.3333333333333333,
+        "natural": 0.3333333333333333,
+        "realistic": 0.3333333333333333
+    },
+    "humanlike": {
+        "text": 1.0
+    },
+    "text": {
+        "END": 1.0
+    },
+    "AI": {
+        "helps": 0.1,
+        "can": 0.7,
+        "technologies": 0.1,
+        "is": 0.1
+    },
+    "helps": {
+        "automate": 1.0
+    },
+    "automate": {
+        "repetitive": 1.0
+    },
+    "repetitive": {
+        "tasks": 1.0
+    },
+    "tasks": {
+        "efficiently": 0.5,
+        "END": 0.5
+    },
+    "efficiently": {
+        "END": 1.0
+    },
+    "are": {
+        "trained": 0.25,
+        "advancing": 0.25,
+        "used": 0.25,
+        "capable": 0.25
+    },
+    "trained": {
+        "on": 1.0
+    },
+    "on": {
+        "vast": 0.5,
+        "historical": 0.5
+    },
+    "vast": {
+        "amounts": 1.0
+    },
+    "amounts": {
+        "of": 1.0
+    },
+    "of": {
+        "data": 0.5,
+        "understanding": 0.5
+    },
+    "data": {
+        "END": 0.8,
+        "for": 0.2
+    },
+    "these": {
+        "models": 1.0
+    },
+    "models": {
+        "understand": 1.0
+    },
+    "understand": {
+        "and": 1.0
+    },
+    "and": {
+        "generate": 0.3333333333333333,
+        "messages": 0.3333333333333333,
+        "speech": 0.3333333333333333
+    },
+    "natural": {
+        "language": 1.0
+    },
+    "language": {
+        "END": 1.0
+    },
+    "improve": {
+        "customer": 0.5,
+        "medical": 0.5
+    },
+    "customer": {
+        "service": 1.0
+    },
+    "service": {
+        "through": 1.0
+    },
+    "through": {
+        "chatbots": 1.0
+    },
+    "chatbots": {
+        "END": 1.0
+    },
+    "technologies": {
+        "are": 1.0
+    },
+    "advancing": {
+        "rapidly": 1.0
+    },
+    "rapidly": {
+        "END": 1.0
+    },
+    "translate": {
+        "languages": 1.0
+    },
+    "languages": {
+        "with": 0.5,
+        "END": 0.5
+    },
+    "with": {
+        "high": 1.0
+    },
+    "high": {
+        "accuracy": 1.0
+    },
+    "accuracy": {
+        "END": 1.0
+    },
+    "analyze": {
+        "large": 1.0
+    },
+    "large": {
+        "datasets": 1.0
+    },
+    "datasets": {
+        "quickly": 1.0
+    },
+    "quickly": {
+        "END": 1.0
+    },
+    "used": {
+        "in": 1.0
+    },
+    "in": {
+        "various": 0.125,
+        "data": 0.25,
+        "recommendation": 0.125,
+        "conversations": 0.125,
+        "coding": 0.125,
+        "drafting": 0.125,
+        "learning": 0.125
+    },
+    "various": {
+        "applications": 1.0
+    },
+    "applications": {
+        "like": 1.0
+    },
+    "like": {
+        "search": 1.0
+    },
+    "search": {
+        "engines": 1.0
+    },
+    "engines": {
+        "END": 1.0
+    },
+    "recognize": {
+        "patterns": 1.0
+    },
+    "patterns": {
+        "in": 1.0
+    },
+    "summarize": {
+        "long": 1.0
+    },
+    "long": {
+        "documents": 1.0
+    },
+    "documents": {
+        "effectively": 1.0
+    },
+    "effectively": {
+        "END": 1.0
+    },
+    "recommendation": {
+        "systems": 1.0
+    },
+    "systems": {
+        "for": 1.0
+    },
+    "for": {
+        "better": 0.25,
+        "security": 0.25,
+        "specific": 0.25,
+        "virtual": 0.25
+    },
+    "better": {
+        "user": 1.0
+    },
+    "user": {
+        "experience": 1.0
+    },
+    "experience": {
+        "END": 1.0
+    },
+    "enhance": {
+        "decision": 0.5,
+        "image": 0.5
+    },
+    "decision": {
+        "making": 1.0
+    },
+    "making": {
+        "processes": 1.0
+    },
+    "processes": {
+        "END": 1.0
+    },
+    "capable": {
+        "of": 1.0
+    },
+    "understanding": {
+        "context": 1.0
+    },
+    "context": {
+        "in": 1.0
+    },
+    "conversations": {
+        "END": 1.0
+    },
+    "detect": {
+        "anomalies": 1.0
+    },
+    "anomalies": {
+        "in": 1.0
+    },
+    "security": {
+        "purposes": 1.0
+    },
+    "purposes": {
+        "END": 1.0
+    },
+    "assist": {
+        "in": 1.0
+    },
+    "coding": {
+        "by": 1.0
+    },
+    "by": {
+        "generating": 1.0
+    },
+    "generating": {
+        "code": 1.0
+    },
+    "code": {
+        "snippets": 1.0
+    },
+    "snippets": {
+        "END": 1.0
+    },
+    "predict": {
+        "trends": 1.0
+    },
+    "trends": {
+        "based": 1.0
+    },
+    "based": {
+        "on": 1.0
+    },
+    "historical": {
+        "data": 1.0
+    },
+    "help": {
+        "in": 1.0
+    },
+    "drafting": {
+        "emails": 1.0
+    },
+    "emails": {
+        "and": 1.0
+    },
+    "messages": {
+        "END": 1.0
+    },
+    "medical": {
+        "diagnoses": 1.0
+    },
+    "diagnoses": {
+        "END": 1.0
+    },
+    "be": {
+        "finetuned": 1.0
+    },
+    "finetuned": {
+        "for": 1.0
+    },
+    "specific": {
+        "tasks": 1.0
+    },
+    "optimize": {
+        "supply": 1.0
+    },
+    "supply": {
+        "chain": 1.0
+    },
+    "chain": {
+        "management": 1.0
+    },
+    "management": {
+        "END": 1.0
+    },
+    "provide": {
+        "insights": 1.0
+    },
+    "insights": {
+        "from": 1.0
+    },
+    "from": {
+        "unstructured": 1.0
+    },
+    "unstructured": {
+        "data": 1.0
+    },
+    "image": {
+        "and": 1.0
+    },
+    "speech": {
+        "recognition": 1.0
+    },
+    "recognition": {
+        "END": 1.0
+    },
+    "learning": {
+        "new": 1.0
+    },
+    "new": {
+        "languages": 1.0
+    },
+    "realistic": {
+        "dialogue": 1.0
+    },
+    "dialogue": {
+        "for": 1.0
+    },
+    "virtual": {
+        "assistants": 1.0
+    },
+    "assistants": {
+        "END": 1.0
+    }
+}

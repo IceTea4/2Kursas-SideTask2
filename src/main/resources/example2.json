@@ -1,0 +1,28 @@
+{
+    "START": {
+        "hooray": 0.6,
+        "yay": 0.4
+    },
+    "hooray": {
+        "for": 1.0
+    },
+    "for": {
+        "AI": 0.5,
+        "puzzles": 0.5
+    },
+    "yay": {
+        "for": 1.0
+    },
+    "AI": {
+        "and": 1.0
+    },
+    "and": {
+        "ML": 1.0
+    },
+    "ML": {
+        "END": 1.0
+    },
+    "puzzles": {
+        "END": 1.0
+    }
+}
